@@ -9,15 +9,11 @@
     >
  
   <channel> 
-    <title>link building</title>
-    <atom:link href="https://new-testing-4mv0.onrender.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>https://new-testing-4mv0.onrender.com/nerw.html</link>
-    <description><p>Nerw: A cutting-edge platform revolutionizing digital interactions with innovative solutions for connectivity and communication.</p>
-<p>Discover the essence of asdasc—a unique concept or product that inspires creativity and innovation. Dive into its world and unveil new possibilities today!</p>
-<p>Discover the essence of zxczxc—a unique blend of creativity and innovation. Explore its transformative impact in the digital realm.</p>
-<p>Explore qwewqewqeqwe, a unique concept blending creativity and innovation. Dive into its intriguing world and discover endless possibilities.</p>
-</description>
-    <lastBuildDate>Fri, 31 Jul 2026 16:49:11 +0000</lastBuildDate>
+    <title>werwe</title>
+    <atom:link href="feed.xml" rel="self" type="application/rss+xml"/>
+    <link>index.html</link>
+    <description></description>
+    <lastBuildDate>Fri, 31 Jul 2026 17:15:50 +0000</lastBuildDate>
     <language>en-US</language>
     <sy:updatePeriod>
     hourly  </sy:updatePeriod>
@@ -25,39 +21,12 @@
     1 </sy:updateFrequency> 
   
 <item>
-    <title>nerw</title>
-    <link>https://new-testing-4mv0.onrender.com/nerw.html</link>
-    <pubDate>Fri, 31 Jul 2026 16:49:11 +0000</pubDate>
-    <category><![CDATA[SEO FAQ]]></category><guid  isPermaLink="false" >https://new-testing-4mv0.onrender.com/nerw.html?p=6a6cd207ed8cd</guid>
-    <description><![CDATA[]]></description>
-    <content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-    <title>asdasc</title>
-    <link>https://new-testing-4mv0.onrender.com/asdasc.html</link>
-    <pubDate>Fri, 31 Jul 2026 16:49:11 +0000</pubDate>
-    <category><![CDATA[SEO FAQ]]></category><guid  isPermaLink="false" >https://new-testing-4mv0.onrender.com/asdasc.html?p=6a6cd207ed8da</guid>
-    <description><![CDATA[]]></description>
-    <content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-    <title>zxczxc</title>
-    <link>https://new-testing-4mv0.onrender.com/zxczxc.html</link>
-    <pubDate>Fri, 31 Jul 2026 16:49:11 +0000</pubDate>
-    <category><![CDATA[SEO FAQ]]></category><guid  isPermaLink="false" >https://new-testing-4mv0.onrender.com/zxczxc.html?p=6a6cd207ed8de</guid>
-    <description><![CDATA[]]></description>
-    <content:encoded><![CDATA[]]></content:encoded>
-</item>
-
-<item>
-    <title>qwewqewqeqwe</title>
-    <link>https://new-testing-4mv0.onrender.com/qwewqewqeqwe.html</link>
-    <pubDate>Fri, 31 Jul 2026 16:49:11 +0000</pubDate>
-    <category><![CDATA[SEO FAQ]]></category><guid  isPermaLink="false" >https://new-testing-4mv0.onrender.com/qwewqewqeqwe.html?p=6a6cd207ed8e2</guid>
-    <description><![CDATA[]]></description>
-    <content:encoded><![CDATA[]]></content:encoded>
+    <title>werwe</title>
+    <link>index.html</link>
+    <pubDate>Fri, 31 Jul 2026 17:15:50 +0000</pubDate>
+    <category><![CDATA[SEO FAQ]]></category><guid  isPermaLink="false" >index.html?p=6a6cd84659769</guid>
+    <description><![CDATA[ werwe<p><a class="b6ab8dfe0e87e2240698191fbaf029a64" href="index.html">werwe</a></p>      ]]></description>
+    <content:encoded><![CDATA[ werwe<p><a class="b6ab8dfe0e87e2240698191fbaf029a64" href="index.html">werwe</a></p>      ]]></content:encoded>
 </item>
 </channel>
             </rss>
